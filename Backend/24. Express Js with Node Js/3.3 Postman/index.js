@@ -18,7 +18,7 @@ app.post("/register", (req, res) => {
   res.sendStatus(201);
 });
 
-app.put("/user/angela", (req, res) => {
+app.put("/user/jabez", (req, res) => {
   res.sendStatus(200);
 });
 
